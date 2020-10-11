@@ -1,10 +1,11 @@
 {
-  "name": "ns-studentdetails",
+  "name": "student-details",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@material-ui/core": "4.11.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-scripts": "3.4.3"
